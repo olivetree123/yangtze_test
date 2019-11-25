@@ -1,0 +1,2 @@
+YANGTZE_HOST = "gaojian.im"
+YANGTZE_PORT = 8527
